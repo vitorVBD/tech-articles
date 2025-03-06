@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./assets/img/banner-cibersecurity.png">
+</p>
+
 # Segurança Cibernética: Entenda os Ataques e Aprenda a se Defender
 
 ## 1. Introdução
@@ -20,13 +24,19 @@ Este artigo tem como objetivo fornecer uma visão abrangente sobre os principais
 <img src="./assets/img/cibersecurity-logo.png" width=400>
 </p>
 
+---
+
 ## 2. O que é a Segurança Cibernética?
 
 A segurança cibernética refere-se ao conjunto de práticas, tecnologias e processos projetados para proteger sistemas, redes e dados contra ataques digitais, danos e acessos não autorizados. Esses ataques podem variar desde tentativas de roubo de informações sensíveis até a interrupção de serviços essenciais. A segurança cibernética abrange uma ampla gama de áreas, envolve proteção de informações sensíveis, prevenção contra invasões e implementação de protocolos seguros. Além disso, inclui estratégias para detectar, responder e mitigar ameaças cibernéticas de forma eficaz.
 
+---
+
 ## 3. Qual a Importância da Segurança Cibernética?
 
 A importância da segurança cibernética não pode ser subestimada. Com a crescente digitalização das atividades cotidianas, e em um mundo onde os dados são o novo petróleo, a segurança cibernética é essencial para proteger informações pessoais, empresariais e governamentais. Um ataque bem-sucedido pode resultar em perdas financeiras, roubo de identidade e até mesmo falhas operacionais em infraestruturas críticas, como redes elétricas, sistemas hospitalares e setores financeiros. Além disso, com o advento da Internet das Coisas (IoT) e da computação em nuvem, a superfície de ataque aumentou consideravelmente, tornando a segurança cibernética uma prioridade absoluta. A implementação de boas práticas e soluções tecnológicas adequadas minimiza os riscos associados aos ataques cibernéticos.
+
+---
 
 ## 4. Princípios Fundamentais da Cibersegurança
 
@@ -68,6 +78,8 @@ Manter backups regulares, armazenados de forma segura, para garantir a recupera�
 <img src="./assets/img/cibersecurity-process.jpeg">
 </p>
 
+---
+
 ## 5. O que são Máquinas Virtuais e Como são Utilizadas para Cometer Crimes?
 
 Uma máquina virtual (VM) é um ambiente virtualizado que simula um computador físico. Ela permite a execução de múltiplos sistemas operacionais em um único hardware físico (um único computador contendo vários SO). Embora as VMs sejam amplamente utilizadas para testes, desenvolvimento e isolamento de ambientes, elas também podem ser usadas para fins maliciosos. Criminosos cibernéticos podem usar VMs para criar ambientes isolados onde realizam atividades ilegais, como o desenvolvimento de malware ou a execução de ataques, sem deixar rastros no sistema hospedeiro e dificultando a rastreabilidade das atividades ilícitas.
@@ -75,6 +87,8 @@ Uma máquina virtual (VM) é um ambiente virtualizado que simula um computador f
 **Exemplo Prático:**
 
 Um atacante pode usar uma VM para testar diferentes tipos de malware em um ambiente controlado antes de lançar um ataque em larga escala. Isso permite que ele refine suas técnicas e evite detecção por sistemas de segurança.
+
+---
 
 ## 6. Engenharia Social e Phishing
 
@@ -95,6 +109,8 @@ Durante meus estudos, práticas e projetos envolvendo segurança cibernética, d
 
 Esse tipo de ataque não só é um dos mais comuns, como também não exige praticamente nenhum conhecimento em programação para executá-lo, mostrando, então, como a engenharia social também pode ser uma arma muito perigosa para esses ataques.
 
+---
+
 ## 7. Conceitos e Técnicas da Varredura de Redes
 
 A varredura de redes é uma técnica usada para identificar dispositivos ativos, portas abertas e serviços em execução em uma rede. Ferramentas como Nmap são comumente usadas para essa finalidade. Embora a varredura de redes seja uma prática legítima para administradores de sistemas, ela também pode ser usada por atacantes para mapear vulnerabilidades em uma rede antes de lançar um ataque.
@@ -102,6 +118,8 @@ A varredura de redes é uma técnica usada para identificar dispositivos ativos,
 **Exemplo Prático:**
 
 Um atacante pode usar o Nmap para identificar todos os dispositivos conectados a uma rede corporativa e descobrir quais portas estão abertas. Isso pode revelar serviços vulneráveis que podem ser explorados.
+
+---
 
 ## 8. Pós-Exploração em Sistemas Comprometidos
 
@@ -111,6 +129,8 @@ Após a invasão, atacantes realizam a pós-exploração para manter acesso, esc
 
 Um atacante que consegue acesso a um servidor pode instalar um backdoor para garantir que possa retornar ao sistema mesmo que a vulnerabilidade inicial seja corrigida. Ele também pode usar ferramentas como Mimikatz para coletar senhas de outros usuários na rede.
 
+---
+
 ## 9. Ataques Man-in-the-Middle (MITM)
 
 Um ataque Man-in-the-Middle ocorre quando um atacante intercepta a comunicação entre duas partes sem o conhecimento delas. Isso pode ser feito para espionar a comunicação, alterar os dados transmitidos ou injetar malware.
@@ -118,6 +138,8 @@ Um ataque Man-in-the-Middle ocorre quando um atacante intercepta a comunicação
 **Exemplo Prático:**
 
 Um atacante pode se posicionar entre um usuário e um site de banco online, capturando as credenciais de login enquanto o usuário acredita que está se comunicando diretamente com o banco.
+
+---
 
 ## 10. Ransomwares
 
@@ -132,6 +154,8 @@ Os ataques são normalmente realizados através de phishing ou exploração de v
 <p align="center">
 <img src="./assets/img/main-attacks.jpeg">
 </p>
+
+---
 
 ## 11. Como se Defender desses Ataques?
 
@@ -159,6 +183,8 @@ Ao adotar medidas preventivas e ficar atento a essas práticas, você reduz sign
 <p align="center">
 <img src="./assets/img/how-to-prevent.jpeg">
 </p>
+
+---
 
 ## 12. Como os Profissionais de CiberSegurança Trabalham?
 
@@ -196,12 +222,16 @@ Além dos profissionais especializados e das diretrizes de segurança, a ciberse
 <img src="./assets/img/cibersecurity-guideline.jpeg">
 </p>
 
+---
+
 ## 13. Desafios para um Ecossistema Mais Seguro na Internet
 
 - **Complexidade Crescente:** À medida que a tecnologia avança, a complexidade dos sistemas também aumenta, criando mais pontos de vulnerabilidade.
 - **Falta de Profissionais Qualificados:** Há uma escassez de profissionais qualificados em segurança cibernética, o que dificulta a proteção adequada dos sistemas.
 - **Evolução dos Ataques:** Os atacantes estão constantemente desenvolvendo novas técnicas e ferramentas, tornando a defesa um desafio contínuo.
 - **Regulamentação e Compliance:** A conformidade com regulamentações de segurança cibernética pode ser complexa e custosa, especialmente para pequenas e médias empresas.
+
+---
 
 ## 14. Conclusão
 
@@ -213,9 +243,7 @@ Como vimos, hackers podem explorar vulnerabilidades de diversas formas, desde a 
 
 Manter-se atualizado sobre as tendências, novas ameaças e ferramentas de defesa é fundamental para garantir um ambiente digital mais seguro para todos. Afinal, na guerra cibernética, o conhecimento é a melhor arma.
 
-<p align="center">
-<img src="./assets/img/banner.webp">
-</p>
+---
 
 ## Referências
 

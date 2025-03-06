@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./assets/img/banner-prompt-engineering.png">
+</p>
+
 # Engenharia de Prompts: Criando Interações Inteligentes com Modelos de IA
 
 ## 1. Introdução
@@ -525,7 +529,3 @@ Utilize também as informações da vaga abaixo:
 A Engenharia de Prompts é uma habilidade essencial para interagir de forma eficaz com modelos de IA, permitindo extrair respostas mais precisas e relevantes. Dominar essa prática pode melhorar significativamente a produtividade, a criatividade e a tomada de decisões. À medida que a tecnologia evolui, a capacidade de formular prompts bem estruturados se torna uma competência valiosa para profissionais de diversas áreas. Lembre-se de que a IA é uma ferramenta poderosa, mas seu sucesso depende da qualidade das instruções que você fornece. Praticando as técnicas apresentadas e com atenção aos detalhes, você pode maximizar o potencial da IA e utilizá-la de maneira mais estratégica e eficiente, transformando a interação em uma experiência produtiva e enriquecedora.
 
 Experimente os prompts sugeridos, refine suas técnicas e explore as infinitas possibilidades que a Engenharia de Prompts oferece. O futuro da colaboração entre humanos e máquinas está em suas mãos!
-
-<p align="center">
-<img src="./assets/img/banner.webp">
-</p>

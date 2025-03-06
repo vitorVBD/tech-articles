@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./assets/img/prompt-quantum-c.png">
+</p>
+
 # Computação Quântica: A próxima revolução tecnológica e o Estado Topológico da matéria
 
 ## Introdução
@@ -155,10 +159,6 @@ Ainda há muitos desafios pela frente, desde a estabilização de qubits até a 
 À medida que continuamos a desvendar os mistérios da mecânica quântica e a aplicá-los em soluções práticas, estamos construindo as bases para um futuro onde doenças podem ser curadas mais rapidamente, onde a energia será mais limpa e acessível, e onde a inteligência artificial alcançará patamares inimagináveis. O futuro quântico está apenas começando, e ele nos convida a sonhar grande e a agir com determinação.
 
 A revolução quântica não é apenas uma promessa; é um chamado para que todos nós, como sociedade, abracemos a inovação e trabalhemos juntos para moldar um amanhã melhor. O futuro é quântico.
-
-<p align="center">
-<img src="./assets/img/banner.webp">
-</p>
 
 ---
 
