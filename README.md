@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="./assets/images/icons/readme-icon.png" alt="Artigos" width="150" /> 
+  <img src="./assets/Wavy_Bus-15_Single-06.jpg" alt="Artigos" width="200" /> 
   <br /> 
   <b>Repositório de Artigos</b> 
   <br /> 
