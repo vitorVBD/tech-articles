@@ -12,14 +12,6 @@
   <br /> 
 </p>
 
-## Estrutura do Projeto
-
-### Artigos Principais
-- `engenharia-de-prompts-criando-interacoes-inteligentes-com-modelos-de-ia/article.md`: Engenharia de Prompts: Criando Interações Inteligentes com Modelos de IA
-- `seguranca-cibernetica-entenda-os-ataques-e-aprenda-a-se-defender/article.md`: Segurança Cibernética: Entenda os Ataques e Aprenda a se Defender
-- `computacao-quantica-a-proxima-revolucao-tecnologica-e-o-estado-topologico-da-materia/article.md`: Computação Quântica: A próxima revolução tecnológica e o Estado Topológico da matéria
-- `Introducao-a-sintaxe-basica-em-python/article.md`: Introdução à Sintaxe Básica em Python
-
 ### Estrutura de Pastas
 
 ```
