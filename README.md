@@ -45,4 +45,4 @@ Este artigo aborda a sintaxe básica do Python, incluindo operadores, strings, e
 Este repositório é licenciado sob os termos da MIT License. Qualquer pessoa pode utilizar os artigos desde que mencione o autor (eu mesmo) e a fonte.
 
 ## Desenvolvedor do Projeto
-⌨️ Desenvolvido por [Seu Nome]
+⌨️ Desenvolvido por [Vitor Bittencourt](https://github.com/vitorVBD)
