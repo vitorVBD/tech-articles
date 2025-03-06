@@ -42,7 +42,10 @@ Este artigo explora o que é a computação quântica, o conceito de estado topo
 Este artigo aborda a sintaxe básica do Python, incluindo operadores, strings, estruturas condicionais, estruturas de repetição e funções, com exemplos práticos para facilitar o aprendizado.
 
 ## Termo de Uso e Licença
-Este repositório é licenciado sob os termos da MIT License. Qualquer pessoa pode utilizar os artigos desde que mencione o autor (eu mesmo) e a fonte.
+Este repositório é licenciado sob os termos da MIT License. Qualquer pessoa pode utilizar os artigos desde que mencione o autor e a fonte.
+
+**Exemplo:**
+Artigo Segurança Cibernética: Entenda os Ataques e Aprenda a se Defender por Vitor Bittencourt
 
 ## Desenvolvedor do Projeto
 ⌨️ Desenvolvido por [Vitor Bittencourt](https://github.com/vitorVBD)
