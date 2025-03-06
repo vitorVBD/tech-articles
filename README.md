@@ -12,7 +12,7 @@
   <br /> 
 </p>
 
-### Estrutura de Pastas
+## Estrutura de Pastas
 
 ```
 artigos
